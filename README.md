@@ -16,18 +16,18 @@ The game was made in an interactive process, meaning ideation and choices were d
 Due to lack of experience, it was hard to set the team on a clear direction at first. If the game were to be redone, we would begin the process making a clearer outline of gameplay elements and script structure. This would permit teammates to develop elements simultaneously and make a more robust game structure. Although, this might have slowed our creative process. Implementing new elements permitted us to try a variety of elements and test them out together, in the end, we chose to keep those that came together more coherently, such as pick and eat. Furthermore, because some of the script had been developed out of the context of our game, it was sometimes difficult to adapt someone else's script to our personal project, although it did permit us to get a better idea of how things could be programmed and a better idea of unity’s overall features.
 
 Used Scripts:
-Become
-Playercontroller
-Combustion
-Pickup
-Eat
-Buoyancy
+Become,
+Playercontroller,
+Combustion,
+Pickup,
+Eat,
+Buoyancy.
 
 Developped scripts:
-General GUI
-Wander
-DropApples
-DropChicken
+General GUI,
+Wander,
+DropApples,
+DropChicken.
 
 
 Final version / conclusion:
